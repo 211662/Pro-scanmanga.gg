@@ -2,51 +2,51 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
-    <loc>https://scan-manga1.com/</loc>
-    <lastmod>2026-09-21</lastmod>
+    <loc>https://scanmanga.gg/</loc>
+    <lastmod>2026-09-28</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
     <image:image>
-      <image:loc>https://scan-manga1.com/scan-manga-logo.webp</image:loc>
-      <image:title>Logo Scan Manga</image:title>
-      <image:caption>Logo du site Scan Manga</image:caption>
+      <image:loc>https://scanmanga.gg/scan-manga-logo.webp</image:loc>
+      <image:title>Logo ScanManga</image:title>
+      <image:caption>Logo du site ScanManga</image:caption>
     </image:image>
     <image:image>
-      <image:loc>https://scan-manga1.com/scan-manga-bg2.webp</image:loc>
-      <image:title>Plateforme Scan Manga</image:title>
-      <image:caption>Présentation de Scan Manga pour les mangas, manhwas et manhuas</image:caption>
+      <image:loc>https://scanmanga.gg/scan-manga-bg2.webp</image:loc>
+      <image:title>Plateforme ScanManga</image:title>
+      <image:caption>Présentation de ScanManga pour les mangas, manhwas et manhuas</image:caption>
     </image:image>
     <image:image>
-      <image:loc>https://scan-manga1.com/scan-manga-bg3.webp</image:loc>
-      <image:title>Expérience de lecture Scan Manga</image:title>
-      <image:caption>Expérience Scan Manga pour les lecteurs de mangas et de manhwas</image:caption>
+      <image:loc>https://scanmanga.gg/scan-manga-bg3.webp</image:loc>
+      <image:title>Expérience de lecture ScanManga</image:title>
+      <image:caption>Expérience ScanManga pour les lecteurs de mangas et de manhwas</image:caption>
     </image:image>
     <image:image>
-      <image:loc>https://scan-manga1.com/scan-manga-bg4.webp</image:loc>
-      <image:title>Alternatives proposées par Scan Manga</image:title>
+      <image:loc>https://scanmanga.gg/scan-manga-bg4.webp</image:loc>
+      <image:title>Alternatives proposées par ScanManga</image:title>
       <image:caption>Alternatives plus sûres pour lire des mangas et des manhwas</image:caption>
     </image:image>
     <image:image>
-      <image:loc>https://scan-manga1.com/scan-manga-bg5.webp</image:loc>
-      <image:title>Guide Scan Manga</image:title>
+      <image:loc>https://scanmanga.gg/scan-manga-bg5.webp</image:loc>
+      <image:title>Guide ScanManga</image:title>
       <image:caption>Guide en français consacré aux mangas et aux manhwas</image:caption>
     </image:image>
   </url>
   <url>
-    <loc>https://scan-manga1.com/dmca.html</loc>
-    <lastmod>2026-09-21</lastmod>
+    <loc>https://scanmanga.gg/dmca.html</loc>
+    <lastmod>2026-09-28</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
   </url>
   <url>
-    <loc>https://scan-manga1.com/terms.html</loc>
-    <lastmod>2026-09-21</lastmod>
+    <loc>https://scanmanga.gg/terms.html</loc>
+    <lastmod>2026-09-28</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
   </url>
   <url>
-    <loc>https://scan-manga1.com/privacy-policy.html</loc>
-    <lastmod>2026-09-21</lastmod>
+    <loc>https://scanmanga.gg/privacy-policy.html</loc>
+    <lastmod>2026-09-28</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
   </url>

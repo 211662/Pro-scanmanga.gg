@@ -1,7 +1,7 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://scan-manga1.com/sitemap.xml
+Sitemap: https://scanmanga.gg/sitemap.xml
 
-# AsuraScans - Official Mirror
-# https://scan-manga1.com
+# ScanManga
+# https://scanmanga.gg
